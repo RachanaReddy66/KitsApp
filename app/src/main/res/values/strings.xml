@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kits App</string>
+    <string name="welcome">WELCOME TO KITS</string>
+    <string name="mainblock">MAINBLOCK</string>
+    <string name="next">NEXT</string>
+    <string name="call">CALL</string>
+    <string name="dial">DIAL</string>
+    <string name="browse">BROWSE</string>
+    <string name="about">ABOUT</string>
+</resources>
